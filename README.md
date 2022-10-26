@@ -1,8 +1,5 @@
 # github-manips
 
-## Principes de travail dur les User stories
--Detailler la description (En tant que ...)
+- Modif locale du readme
+- main updated by @jcheron
 
--Liste les tâches
-
--Spécifier les critères d'acceptation
